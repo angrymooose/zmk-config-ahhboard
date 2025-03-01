@@ -32,7 +32,7 @@
    &trans         &trans         &trans         &trans         &trans                             &trans    &trans    &trans   &trans      &trans     &trans        &trans,
    &trans         &trans         &kp LPAR       &kp RPAR       &trans                             &trans    &kp LBKT  &kp RBKT &kp MINUS   &kp EQUAL  &trans        &trans,
    &trans         &trans         &trans         &trans         &trans        &trans    &trans     &trans    &trans    &trans   &trans      &trans     &trans        &trans,
-                                 &trans         &trans         &trans        &trans    &trans     &trans    &trans    &trans   &trans,
+                                 &trans         &trans         &trans        &trans    &trans     &trans    &trans    &trans   &trans      &trans,
                         >;
                 };
         };
