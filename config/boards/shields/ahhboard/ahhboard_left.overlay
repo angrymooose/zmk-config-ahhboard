@@ -1,6 +1,6 @@
 #include "ahhboard.dtsi"
 
-kscan1: kscan {
+&kscan0 {
     compatible = "zmk,kscan-gpio-matrix";
     wakeup-source;
     diode-direction = "col2row";
