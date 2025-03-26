@@ -1,0 +1,12 @@
+file_format: "1"
+id: ahhboard
+name: Ahhboard
+type: shield
+url: https://google.com
+requires:
+  - nicenano_v2
+features:
+  - keys
+siblings:
+  - ahhboard_left
+  - ahhboard_right
